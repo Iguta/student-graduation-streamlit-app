@@ -76,7 +76,7 @@ This is a **Machine Learning application** built using the **XGBoost algorithm**
 ---
 
 ## Project Structure
-
+```
 student-graduation-streamlit-app/
 │
 ├── app.py                 # Main Streamlit app
@@ -89,6 +89,7 @@ student-graduation-streamlit-app/
 ├── .streamlit/            # Streamlit configuration files
 │   └── config.toml        # Optional configuration for page settings
 └── assets/ (optional)     # Images, icons, or other static assets used in app
+```
 
 ---
 
