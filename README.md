@@ -41,6 +41,9 @@ This is a **Machine Learning application** built using the **XGBoost algorithm**
 - Trained both **Random Forest** and **XGBoost** models using AWS SageMaker.  
 - **XGBoost** outperformed Random Forest, achieving better recall for the dropout class.  
 
+**Training notebooks and scripts are available here:**  
+[Student Graduation Prediction - SageMaker Training Repository](https://github.com/Iguta/student-graduation-prediction-ssagemaker-inference)
+
 ### 3. Hyperparameter Optimization
 - Used **Optuna** to optimize multiple parameters simultaneously.  
 - Optimized for **recall** of the dropout class and overall **accuracy**.  
@@ -76,7 +79,7 @@ This is a **Machine Learning application** built using the **XGBoost algorithm**
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-graduation-streamlit-app.git
+git clone https://github.com/Iguta/student-graduation-streamlit-app.git
 cd student-graduation-streamlit-app
 
 # Create virtual environment
