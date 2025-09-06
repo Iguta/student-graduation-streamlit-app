@@ -11,6 +11,9 @@ This is a **Machine Learning application** built using the **XGBoost algorithm**
 
 ---
 
+## 🚀 Demo  
+👉 Try the live app here: [Student Graduation Prediction Streamlit App](https://students-graduation-prediction.streamlit.app/)  
+
 ## Tools and Libraries
 - **AWS SageMaker Notebook** – for training and experimentation  
 - **Streamlit** – for interactive web application deployment  
