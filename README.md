@@ -75,6 +75,23 @@ This is a **Machine Learning application** built using the **XGBoost algorithm**
 
 ---
 
+## Project Structure
+
+student-graduation-streamlit-app/
+│
+├── app.py                 # Main Streamlit app
+├── modules/               # Custom modules
+│   ├── prediction.py      # Prediction logic (calls the model endpoint)
+│   ├── visualizations.py  # Functions to create charts and graphs
+│   └── helper.py          # Helper functions, e.g., AWS SDK interactions
+├── requirements.txt       # List of Python dependencies
+├── README.md              # Project documentation
+├── .streamlit/            # Streamlit configuration files
+│   └── config.toml        # Optional configuration for page settings
+└── assets/ (optional)     # Images, icons, or other static assets used in app
+
+---
+
 ## Installation & Setup
 
 ```bash
